@@ -9842,6 +9842,20 @@ form .row:first-child .floating-label-form-group {
 .responsivevideo {
   width: 370px !important;
   height: 259px !important;
+  margin-left: 0 !important;
   }
+  .responsivevideoN{
+    margin-left: -3px;
+    margin-top: 10px !important;
+  }
+.responsivevideoM {
+  width: 310px !important;
+  height: 220px !important;
+  margin-left: 0;
+    }
+}
+.responsivevideoN{
+  margin-left: 23%;
+  margin-top: 50px !important;
 }
 
